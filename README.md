@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rajashekar reddy
 - 👀 I’m interested in Full stack developer. 
-- 🌱 I’m currently learning  javascript and java frameworks  both front end backend frameworks.
+- 🌱 I’m currently learning  javascript and java frameworks(i.e. Spring Boot),RestApiS by using Spring boot,  both front end backend frameworks.
 - 💞️ I’m looking to collaborate on java full stack developers to share the inputs to grow together in this It field
 - 📫 How to reach me  using my git hub or rajas9162@gmail.com
-- have knowledge on core java, J2EE, SQL and webtechnologies. 
+- have knowledge on core java, J2EE,Spring boot,Restful web services, SQL,Mongodb and webtechnologies. 
 
 <!---
 rajashekar9989/rajashekar9989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
